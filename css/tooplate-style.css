@@ -1098,7 +1098,9 @@ footer .footer-item ul.social-icons li a:hover {
 
   .banner .left-content {
     text-align: center;
-    height: 400px!important;
+    height: 200px!important;
+    /* margin-bottom: auto; */
+    /* padding-bottom: 50px; */
   }
 
   .banner .left-content .inside-content {
@@ -1148,7 +1150,7 @@ footer .footer-item ul.social-icons li a:hover {
   }
 
   .contact-form .text-content .inside-content{
-    text-align: center;!important;
+    text-align: center!important;
   }
 
   .contact-form .right-content {
@@ -1212,4 +1214,5 @@ footer .footer-item ul.social-icons li a:hover {
 
   footer .footer-item {
     margin-bottom: 60px;
+    padding-top: none;
   }
