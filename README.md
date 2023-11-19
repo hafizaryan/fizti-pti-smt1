@@ -1,4 +1,4 @@
-# Redesign Web Dinas Pendidikan Kota Pekanbaru (DisdikPKU)
+# Website FizTi
 
 Ini adalah proyek ujian akhir yang bertujuan untuk membangun website sederhana guna meningkatkan tampilan dan pengalaman pengguna.
 
