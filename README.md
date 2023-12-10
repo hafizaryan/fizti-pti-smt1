@@ -14,8 +14,6 @@ Proyek ini bertujuan untuk merancang ulang tampilan dan struktur website. Tujuan
 
 - **Navigasi yang Efisien**: Kami menyederhanakan navigasi dan penataan informasi sehingga pengguna dapat dengan cepat menemukan informasi yang mereka cari.
 
-- **Identitas DisdikPKU**: Kami mengintegrasikan elemen desain yang mencerminkan identitas Dinas Pendidikan Kota Pekanbaru untuk memberikan pengalaman yang konsisten.
-
 - **Peningkatan Kinerja**: Kami telah bekerja untuk meningkatkan kecepatan dan kinerja situs web agar pengguna dapat mengakses informasi dengan cepat.
 
 ## Teknologi yang Digunakan
