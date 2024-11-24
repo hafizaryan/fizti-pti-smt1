@@ -18,6 +18,6 @@ Proyek ini bertujuan untuk merancang ulang tampilan dan struktur website. Tujuan
 
 ## Teknologi yang Digunakan
 
-- HTML, CSS, dan JavaScript: Proyek ini menggunakan teknologi dasar web untuk membangun website.
+- HTML, CSS, dan JavaScript: Proyek ini menggunakan teknologi dasar untuk membangun website.
 
 - Framework Bootstrap: Kami menggunakan framework Bootstrap untuk manajemen tata letak dan komponen, yang membantu mempercepat pengembangan.
